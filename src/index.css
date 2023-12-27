@@ -8,6 +8,29 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: black;
+}
+
+section {
+  background-color: white;
+  margin: 20px 40px;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+
 h1 {
+  background-color: rgb(15, 9, 9);
+  color: white;
   font-family: 'Carattere', cursive;
+  font-size: 2.8em;
+  text-align: center;
+  padding: 10px;
+}
+
+p {
+  font-weight: bold;
+  margin: 20px 10px;
+  line-height: 25px;
+  text-align: justify;
 }
