@@ -28,6 +28,13 @@ h1 {
   padding: 10px;
 }
 
+h2 {
+  font-size: 1.7em;
+  color: rgb(15, 9, 9);
+  padding: 10px;
+  text-align: center;
+}
+
 p {
   font-weight: bold;
   margin: 20px 10px;
