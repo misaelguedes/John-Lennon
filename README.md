@@ -1,5 +1,5 @@
 <p>
-    <img src='src/assets/preview.png' alt='Prévia do Site'/>
+    <img src='src/assets/john-lennon.jpg' alt='Prévia do Site'/>
 </p>
 
 # John Lennon
