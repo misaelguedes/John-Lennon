@@ -27,8 +27,9 @@
 .burguer span {
     color: white;
     font-size: 2em;
+    text-align: center;
+    cursor: pointer;
     display: none;
-    padding: 10px 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -38,9 +39,6 @@
    
     .burguer span {
         display: block;
-        margin: auto;
-        text-align: center;
-        cursor: pointer;
     }
 
     .itens a {
