@@ -23,3 +23,30 @@
 .itens a:hover {
     color: rgb(173, 173, 173);
 }
+
+.burguer span {
+    color: white;
+    font-size: 2em;
+    display: none;
+    padding: 10px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .menu {
+        height: auto;
+    }
+   
+    .burguer span {
+        display: block;
+        margin: auto;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .itens a {
+        display: block;
+        font-size: 1.5em;
+        text-align: center;
+        border-bottom: 1px solid white;
+    }
+}
