@@ -48,3 +48,17 @@ p {
   line-height: 25px;
   text-align: justify;
 }
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2.3em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.2em;
+  }
+}
