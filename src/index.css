@@ -20,7 +20,7 @@ section {
 }
 
 h1 {
-  background-color: rgb(15, 9, 9);
+  background-color: rgb(31, 18, 18);
   color: white;
   font-family: 'Carattere', cursive;
   font-size: 2.8em;
@@ -30,14 +30,14 @@ h1 {
 
 h2 {
   font-size: 1.7em;
-  color: rgb(15, 9, 9);
+  color: rgb(31, 18, 18);
   padding: 10px;
   text-align: center;
 }
 
 h3 {
   font-size: 1.3em;
-  color: rgb(15, 9, 9);
+  color: rgb(31, 18, 18);
   padding: 10px;
   text-align: center;
 }
@@ -56,14 +56,14 @@ p {
   }
   
   h1 {
-    font-size: 2.3em;
+    font-size: 2em;
   }
 
   h2 {
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
 
   h3 {
-    font-size: 1.2em;
+    font-size: 1em;
   }
 }
