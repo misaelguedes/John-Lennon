@@ -6,3 +6,13 @@
     font-size: 3em;
     text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+    section {
+        height: 100vh;
+    }
+    
+    .error {
+        font-size: 2em;
+    }
+}
